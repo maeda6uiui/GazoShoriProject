@@ -55,7 +55,6 @@ if __name__=="__main__":
     print("訓練開始")
 
     epoch_num=50
-
     net.train()
 
     for epoch in range(epoch_num):
